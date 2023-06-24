@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:720/1*3tbnS4Cb-1Bz1Nt866uGuA.gif)
+![MasterHead](https://miro.medium.com/v2/resize:fit:720/1*3tbnS4Cb-1Bz1Nt866uGuA.gif)
 <h1 align="center">Hi 👋, I'm Samer</h1>
 <h3 align="center">A Passionate Developer</h3>
 
