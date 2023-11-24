@@ -1,15 +1,6 @@
-![MasterHead](https://miro.medium.com/v2/resize:fit:720/1*3tbnS4Cb-1Bz1Nt866uGuA.gif)
-<h1 align="center">Hi 👋, I'm Samer</h1>
-<h3 align="center">A Passionate Developer</h3>
-
+<h1 align="center">Hello There</h1>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samerhajj" alt="samerhajj" /></a> </p>
-
-- 🔭 I’m currently working on [Termi Project](https://github.com/Samerhajj/BlackShift-Termi)
-
-- 🌱 I’m currently learning **DevOps**
-
-- 📫 How to reach me **samerhaj44@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
